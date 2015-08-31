@@ -13,5 +13,5 @@ Everything you should do when creating a website/app
 - Add <html> below <!DOCTYPE>, followed by </html>
 
 # The Head and The Body
-- In between your <html> tags, create <head></head> tags, followed by <body></body> tags
+-  In between your &lt;html&gt; tags, create &lt;head&gt;&lt;/head&gt; tags, followed by &lt;body&gt;&lt;/body&gt; tags
 
