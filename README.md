@@ -5,7 +5,8 @@ Everything you should do when creating a website/app
 - Create a root directory
 - Add a css folder with style.css and reset.css/normalize.css
 - Add an images folder
-- Add 1000 images
-- High five someone!
-- keep keep css code organized, logical, and searchable
+- Keep css code organized, logical, and searchable
+
+# HTML
+- Name your file index.html for the homepage
 
