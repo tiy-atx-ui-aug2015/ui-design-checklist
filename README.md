@@ -6,3 +6,5 @@ Everything you should do when creating a website/app
 - Add a css folder with style.css and reset.css/normalize.css
 - Add an images folder
 - Add 1000 images
+- High five someone!
+
