@@ -7,4 +7,5 @@ Everything you should do when creating a website/app
 - Add an images folder
 - Add 1000 images
 - High five someone!
+- keep keep css code organized, logical, and searchable
 
