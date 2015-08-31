@@ -9,4 +9,5 @@ Everything you should do when creating a website/app
 
 # HTML
 - Name your file index.html for the homepage
+- Add <!DOCTYPE>
 
