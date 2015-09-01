@@ -5,7 +5,8 @@ Everything you should do when creating a website/app
 - Create a root directory
 - Add a css folder with style.css and reset.css/normalize.css
 - Add an images folder
-- Keep css code organized, logical, and searchable
+- Create an index.html file in the root directory
+- Use HTML5 elements
 
 # HTML
 - Name your file index.html for the homepage
@@ -20,3 +21,11 @@ Everything you should do when creating a website/app
 - Put in your &lt;meta&gt; tag, yo!
 - You can link the style sheets you use to the html sheet with the link tag. Ex. &lt;link type="text/css" rel="stylesheet" href="style.css"&gt;
 
+# CSS
+- Don't Repeat Yourself
+- Keep css code organized, logical, and searchable
+- Use comments for other people working on the same project
+- Use media queries to create progressive enhancement
+
+# Design/Strategy
+- Mobile (Small Screen) First
