@@ -26,6 +26,7 @@ Everything you should do when creating a website/app
 - Keep css code organized, logical, and searchable
 - Use comments for other people working on the same project
 - Use media queries to create progressive enhancement
+- Make sure to sass --watch your css folder
 
 # Design/Strategy
 - Mobile (Small Screen) First
