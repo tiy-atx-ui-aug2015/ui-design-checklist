@@ -29,3 +29,5 @@ Everything you should do when creating a website/app
 
 # Design/Strategy
 - Mobile (Small Screen) First
+- Use Media queries with the following syntax:
+  "@media screen and (min-width: 1100px) {"
