@@ -11,7 +11,7 @@ Everything you should do when creating a website/app
 # HTML
 - Name your file index.html for the homepage
 - Add <!DOCTYPE>
-- Add <html> below <!DOCTYPE>, followed by </html>
+- Add &lt;html&gt; below <!DOCTYPE>, followed by &lt;/html&gt;
 
 # The Head and The Body
 -  In between your &lt;html&gt; tags, create &lt;head&gt;&lt;/head&gt; tags, followed by &lt;body&gt;&lt;/body&gt; tags
