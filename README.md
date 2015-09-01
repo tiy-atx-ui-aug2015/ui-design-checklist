@@ -16,7 +16,7 @@ Everything you should do when creating a website/app
 -  In between your &lt;html&gt; tags, create &lt;head&gt;&lt;/head&gt; tags, followed by &lt;body&gt;&lt;/body&gt; tags
 
 # What goes in the head?
-- <title>Your Title Goes Here</title> The title will show up on the tab of your webpage
-- Put in your <meta> tag, yo!
-- You can link the style sheets you use to the html sheet with the link tag. Ex. link type="text/css" rel="stylesheet" href="style.css"
+- &lt;title&gt;Your Title Goes Here&lt;/title&gt; The title will show up on the tab of your webpage
+- Put in your &lt;meta&gt; tag, yo!
+- You can link the style sheets you use to the html sheet with the link tag. Ex. &lt;link type="text/css" rel="stylesheet" href="style.css"&gt;
 
