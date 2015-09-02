@@ -21,6 +21,8 @@ Everything you should do when creating a website/app
 - Put in your <meta> tag, yo!
 - You can link the style sheets you use to the html sheet with the link tag. Ex. link type="text/css" rel="stylesheet" href="style.css"
 
+# SASS
+
 # CSS
 - Don't Repeat Yourself
 - Keep css code organized, logical, and searchable
