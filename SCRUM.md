@@ -9,5 +9,3 @@ The SCRUM process:
 3. Daily Scrum Meeting: stand up, say progress since last meeting, what you plan to do before next meetings, and any blockers to your goal.
 
 4. Sprint Review: show the product to owner and stakeholders. Deliver a **finished product.**
-
-5. Sprint Retrospective: learn from mistakes, plan for next time.
