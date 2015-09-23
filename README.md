@@ -23,9 +23,12 @@ Everything you should do when creating a website/app
 
 # SASS
 - Use partials to maintain modular pieces of your CSS for organization. For example putting mixins or variables in partial Sass files and import them into the main style sheet.
+<<<<<<< HEAD
 - Import partial files by putting "@import 'name of your partial here';" at the top of your main style sheet.
 - bum lines
 - more bum lines
+=======
+>>>>>>> parent of 85b7834... Added import line to sass section
 
 # CSS
 - Don't Repeat Yourself
