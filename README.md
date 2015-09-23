@@ -22,7 +22,7 @@ Everything you should do when creating a website/app
 - You can link the style sheets you use to the html sheet with the link tag. Ex. link type="text/css" rel="stylesheet" href="style.css"
 
 # SASS
-- You can easily maintain modular pieces of you CSS for organization purposes with partials. For example putting mixins or variables in partial Sass files and import them into the main style sheet.
+- Use partials to maintain modular pieces of your CSS for organization. For example putting mixins or variables in partial Sass files and import them into the main style sheet.
 
 # CSS
 - Don't Repeat Yourself
