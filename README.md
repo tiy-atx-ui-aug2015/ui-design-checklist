@@ -35,3 +35,5 @@ Everything you should do when creating a website/app
 - Use Media queries with the following syntax:
   "@media screen and (min-width: ___px) {  }"
 
+# App Design Principles
+- consistency
