@@ -4,3 +4,7 @@
 -locate the file you wish to branch
 -command: git checkout -b "new branch name"
 
+#### Working in the branch
+-make your commit[s]
+-push to your branch
+
