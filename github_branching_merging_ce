@@ -3,15 +3,3 @@
 ### Branching
 -locate the file you wish to branch
 -command: git checkout -b "new branch name"
-
-#### Working in the branch
--make your commit[s]
--push to your branch
-
-#### Pull requests with the master
--after commits are pushed to your branch
--go to the master folder on github website
--choose create pull request
--enter your comment regarding the pull request
--process pull request and see if there are merge issues
-
