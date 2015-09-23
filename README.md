@@ -32,3 +32,4 @@ Everything you should do when creating a website/app
 - Mobile (Small Screen) First
 - Use Media queries with the following syntax:
   "@media screen and (min-width: ___px) {  }"
+- Something cool
