@@ -1,3 +1,6 @@
 # Github Branching & Merging
 
-### Agile SCRUM
+### Branching
+-locate the file you wish to branch
+-command: git checkout -b "new branch name"
+
