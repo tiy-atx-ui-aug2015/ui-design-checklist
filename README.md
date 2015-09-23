@@ -38,3 +38,4 @@ Everything you should do when creating a website/app
 # App Design Principles
 - consistency
 - clarity
+- hierarchy
