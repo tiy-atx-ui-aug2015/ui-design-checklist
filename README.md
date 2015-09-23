@@ -33,3 +33,5 @@ Everything you should do when creating a website/app
 - Use Media queries with the following syntax:
   "@media screen and (min-width: ___px) {  }"
 - Something cool
+- 2nd Cool thing
+- 3rd Cool thing
