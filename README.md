@@ -34,4 +34,4 @@ Everything you should do when creating a website/app
   "@media screen and (min-width: ___px) {  }"
 
 # App Design Principles
-
+- consistency
