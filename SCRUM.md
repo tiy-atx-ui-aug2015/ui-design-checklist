@@ -3,3 +3,5 @@
 The SCRUM process:
 
 1. Backlog refinement: reviewing user stories, making sense of the requirements and work load.
+
+2. Sprint Planning: plan the workload, match abilities with priorities, and set up the scrum board.
