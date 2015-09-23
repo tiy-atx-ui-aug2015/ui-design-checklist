@@ -41,3 +41,6 @@ Everything you should do when creating a website/app
 =======
 
 >>>>>>> 19b9b79dea7d0e46cccfc9505a0bbdeb978122c2
+
+
+Quite honestly, I'm wondering if I actually created a branch. Because I sure can't see it on GitHub.
