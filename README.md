@@ -30,15 +30,7 @@ Everything you should do when creating a website/app
 - Use media queries to create progressive enhancement
 
 # Design/Strategy
-<<<<<<< HEAD
 - Mobile (Small Screen) First
 - Use Media queries with the following syntax:
   "@media screen and (min-width: ___px) {  }"
 
-# App Design Principles
-- consistency
-- clarity
-- hierarchy
-=======
-- Mobile (Small Screen) First
->>>>>>> parent of bcf397f... Merge branch 'master' of github.com:tiy-atx-ui-aug2015/ui-design-checklist
