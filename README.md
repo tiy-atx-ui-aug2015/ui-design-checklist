@@ -45,4 +45,4 @@ Everything you should do when creating a website/app
 
 Quite honestly, I'm wondering if I actually created a branch. Because I sure can't see it on GitHub.
 
-Still can't see anything.
+Forget it, I'm branched.
