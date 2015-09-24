@@ -22,6 +22,7 @@ Everything you should do when creating a website/app
 - You can link the style sheets you use to the html sheet with the link tag. Ex. link type="text/css" rel="stylesheet" href="style.css"
 
 # SASS
+- Don’t forget to Sass watch!
 
 # CSS
 - Don't Repeat Yourself
@@ -33,14 +34,11 @@ Everything you should do when creating a website/app
 - Mobile (Small Screen) First
 - Use Media queries with the following syntax:
   "@media screen and (min-width: ___px) {  }"
-<<<<<<< HEAD
+
 - Something cool
 - 2nd Cool thing
 - 3rd Cool thing
 - 4th Cool thing
-=======
-
->>>>>>> 19b9b79dea7d0e46cccfc9505a0bbdeb978122c2
 
 
 Quite honestly, I'm wondering if I actually created a branch. Because I sure can't see it on GitHub.
